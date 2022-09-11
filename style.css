@@ -1,0 +1,49 @@
+header{
+    background: #23CF98;
+    width:100%;
+    height: 20px;
+    display: flex;
+}
+
+body{
+    padding:0px;
+    margin:0px 300px ;
+    background-color: #1d1c1c;
+    color: azure;
+}
+
+h4{
+    color: #23CF98;
+}
+
+h5{
+    margin: 0px;
+}
+
+p{
+    margin: 8px 0px;
+    color: darkgrey;
+}
+
+img{
+    height: 100px;
+    float: right;
+}
+
+.contact{
+    text-align: left;
+    float: right;
+}
+
+h1, h2, h3, h4, h5, h6, p, li{
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+
+h1{
+    margin-top: 16px;
+    margin-bottom: 0px;
+}
+
+h3{
+    margin-top: 8px;
+}
